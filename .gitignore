@@ -1,0 +1,11 @@
+.env
+.env.*
+.vercel/
+node_modules/
+vendor/
+app/config/ai.local.php
+app/config/ai.locale.php
+app/config/database.local.php
+*.log
+.DS_Store
+Thumbs.db

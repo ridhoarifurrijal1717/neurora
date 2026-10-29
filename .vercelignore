@@ -1,0 +1,11 @@
+.git/
+.env*
+database/
+tools/
+README.md
+start.php
+router.php
+app/config/ai.local.php
+app/config/ai.locale.php
+app/config/database.local.php
+app/config/*.example.php
